@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='modulescicompclassclassof2024',
+setup(name='modulescicompclassclassof2025',
       description='test module for the SciComp class',
       url='https://github.com/dgerosa',
       author='Davide Gerosa',
